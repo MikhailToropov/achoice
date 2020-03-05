@@ -1,6 +1,4 @@
 <resources>
-    <string name="app_name">AChoice</string>
-    <string name="button">Make a Choice</string>
-    <string name="label">Make a choice!</string>
-    <string name="score">val</string>
+    <string name="app_name">xxxchoice</string>
+    <string name="title_activity_main">MAIN_ACTIVITY</string>
 </resources>
